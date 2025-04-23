@@ -1,0 +1,4 @@
+.pio
+.vscode
+build
+esp8266.code-workspace
