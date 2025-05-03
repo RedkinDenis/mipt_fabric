@@ -48,4 +48,7 @@
 2. Второй по сложности этап — написание кода для портирования  
 3. Возникли трудности при отладке и поиске ошибок в коде
 
-![console](https://github.com/user-attachments/assets/2570fea8-24ce-4a9f-96c6-1242dbc57661)
+![consol_photo](https://github.com/user-attachments/assets/7c07b4df-cc21-4d15-a0bc-c238d94d0bd6)
+
+https://github.com/user-attachments/assets/87cb41c0-4c74-4b96-941c-0a23c3d9a1bb
+
