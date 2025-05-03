@@ -16,6 +16,7 @@ FetchContent_Declare(
     sfml
     GIT_REPOSITORY "https://github.com/SFML/SFML.git"
     GIT_TAG        "${SFML_VERSION}"
+    CMAKE_ARGS     -DSFML_BUILD_AUDIO=FALSE
 )
 
 FetchContent_GetProperties(sfml)

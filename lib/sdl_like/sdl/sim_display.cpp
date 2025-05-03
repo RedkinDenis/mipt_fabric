@@ -110,7 +110,7 @@ void Display::drawPixel(int x, int y, uint32_t c) {
 }
 
 Display::Display(sf::VideoMode vm, std::string name) : window_{vm, name} {
-    if (!font_.loadFromFile("assets/SpaceMono-Regular.ttf"))
+    if (!font_.loadFromFile("/home/daddy/Documents/mipt_fabric/assets/SpaceMono-Regular.ttf"))
         std::abort();
 
     text_.setFont(font_);
